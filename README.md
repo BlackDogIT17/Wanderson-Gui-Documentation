@@ -12,7 +12,10 @@ Check his channel: https://www.youtube.com/user/VFXtestingWMP
 
 **Table of Contents**
 
-- [Example 1 Heading](###Modify the gui)
+- Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
 
 
 
