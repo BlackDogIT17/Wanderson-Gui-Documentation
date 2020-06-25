@@ -13,7 +13,10 @@ Check his channel: https://www.youtube.com/user/VFXtestingWMP
 **Table of Contents**
 
 [TOCM]
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+. First list item
+     - First nested list item
+       - Second nested list item
+
 
 :toc:
 
