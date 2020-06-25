@@ -119,7 +119,7 @@ Add the code:
 ### Save and convert ###
 ----
 
-File -> Save As... when you saved go to your folder and open the Terminal/Command Prompt inside it then write `pyuic5 your_gui_file.ui -o your_gui_file_py`.
+File -> Save As... when you saved go to your folder and open the Terminal/Command Prompt inside it then write `pyuic5 your_gui_file.ui -o your_gui_file.py`.
 
 ### Import your new ui in main.py ###
 
