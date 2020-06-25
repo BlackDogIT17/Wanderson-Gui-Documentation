@@ -12,14 +12,15 @@ Check his channel: https://www.youtube.com/user/VFXtestingWMP
 
 **Table of Contents**
 
-- [Documentation](#documentation "Goto heading-1")
-  - [Modify The Gui](#modify-the-gui "Goto heading-1")
-    - [Add A New Page](#add-a-new-page "Goto heading-1")
-    - [Add A New Menu Button](#add-a-new-menu-button "Goto heading-1")
-    - [Select the page To Display When The Button Is Pressed](#select-the-page-to-display-when-the-button-is-pressed "Goto heading-1")
-  - [Save And Convert](#save-and-convert "Goto heading-1")
-  - [Import Your New Ui In The main.py](#import-your-ui-in-the-main.py "Goto heading-1")
-    - [Fixing The Errors On Your New Gui File](#fixing-the-errors-on-your-new-gui-file "Goto heading-1")
+- [Documentation](#documentation)
+  - [Modify The Gui](#modify-the-gui)
+    - [Change The Current Page](#change-the-current-page)
+    - [Add A New Page](#add-a-new-page)
+    - [Add A New Menu Button](#add-a-new-menu-button)
+    - [Select the page To Display When The Button Is Pressed](#select-the-page-to-display-when-the-button-is-pressed)
+  - [Save And Convert](#save-and-convert)
+  - [Import Your New Ui In The main.py](#import-your-ui-in-the-main.py)
+    - [Fixing The Errors On Your New Gui File](#fixing-the-errors-on-your-new-gui-file)
 
 
 
@@ -37,7 +38,7 @@ or
 
 `pip install PySide2`
 [Link to PySide2](https://pypi.org/project/PySide2/ "Link to PySide2")
-####Change the current page ####
+#### Change the current page ####
 
 To change the current page we must click the two arrows on the top right of the stacked widget.
 [![Change Current Page](https://i.imgur.com/w6Tk8WK.png "Change Current Page")](https://i.imgur.com/w6Tk8WK.png "Change Current Page")
