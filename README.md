@@ -110,9 +110,10 @@ Add the code:
 		UIFunctions.labelPage(self, "Custom Widgets")
 		btnWidget.setStyleSheet(UIFunctions.selectMenu(btnWidget.styleSheet()))
 		
+		"btn_my_page" change it to the name of the button you given.
 		
-		`self.ui.my_page` change it to the name of the page you given when you added a 
-		new page to the stacked widget
+		"self.ui.my_page" change it to the name of the page you given when you added a 
+		new page to the stacked widget.
 		
 #Save your .ui file and convert it to a .py file #
 ### Save and convert ###
