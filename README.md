@@ -4,6 +4,7 @@ Wanderson Gui Documentation
 
 I'm not the owner/developer of this gui.
 Check his channel: https://www.youtube.com/user/VFXtestingWMP
+Download: https://github.com/Wanderson-Magalhaes/Simple_PySide_Base
 
 
 # Documentation
