@@ -35,12 +35,12 @@ Download: https://github.com/Wanderson-Magalhaes/Simple_PySide_Base
 In order to modify the gui you need to install PyQt Designer or PySide2 Designer
 
 `pip install PyQt5`
-	[Link to PyQt5](https://pypi.org/project/PyQt5/ "Link to PyQt5")
+ [Link to PyQt5](https://pypi.org/project/PyQt5/ "Link to PyQt5")
 	
 or
 
 `pip install PySide2`
-[Link to PySide2](https://pypi.org/project/PySide2/ "Link to PySide2")
+ [Link to PySide2](https://pypi.org/project/PySide2/ "Link to PySide2")
 #### Change the current page ####
 
 To change the current page we must click the two arrows on the top right of the stacked widget.
