@@ -17,7 +17,9 @@ Check his channel: https://www.youtube.com/user/VFXtestingWMP
    - [Add A New Page](#add-a-new-page "Goto heading-1")
    - [Add A New Menu Button](#add-a-new-menu-button "Goto heading-1")
    - [Select the page To Display When The Button Is Pressed](#select-the-page-to-display-when-the-button-is-pressed "Goto heading-1")
-  - [Modify The Gui](#modify-the-gui "Goto heading-1")
+  - [Save And Convert](#save-and-convert "Goto heading-1")
+  - [Import Your New Ui In The main.py](#import-your-ui-in-the-main.py "Goto heading-1")
+   - [Fixing The Errors On Your New Gui File](#fixing-the-errors-on-your-new-gui-file "Goto heading-1")
 
 
 
