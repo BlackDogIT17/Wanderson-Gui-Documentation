@@ -13,6 +13,7 @@ Check his channel: https://www.youtube.com/user/VFXtestingWMP
 **Table of Contents**
 
 [TOCM]
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 :toc:
 
