@@ -116,6 +116,7 @@ Add the code:
 		
 #Save your .ui file and convert it to a .py file #
 ### Save and convert ###
+----
 
 File -> Save As... when you saved go to your folder and open the Terminal/Command Prompt inside it then write `pyuic5 your_gui_file.ui -o your_gui_file_py`.
 
