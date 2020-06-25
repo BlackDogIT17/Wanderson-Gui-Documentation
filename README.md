@@ -12,7 +12,7 @@ Check his channel: https://www.youtube.com/user/VFXtestingWMP
 
 **Table of Contents**
 
-- [Modify The Gui](###Modify-the-gui "Goto heading-1")
+- [Modify The Gui](###modify-the-gui "Goto heading-1")
   - Nested bullet
    - Sub-nested bullet etc
  - Bullet list item 2 
