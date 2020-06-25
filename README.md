@@ -127,7 +127,7 @@ Search the comment `# GUI FILE` and change `from ui_main import Ui_MainWindow` t
 
 #### Fixing the errors on your new gui file ####
 
-To do that just replace avery import from `PyQt5` to `PySide2` and add 
+To do that just replace every import from `PyQt5` to `PySide2` and add 
 `from PySide2 import QtGui, QtCore, QtWidgets`
 
 
