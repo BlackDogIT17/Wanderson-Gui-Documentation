@@ -1,4 +1,4 @@
-# Wanderson-Gui-Documentation
+# Wanderson-Gui-Documentation - Simple PySide Base
 Wanderson Gui Documentation
 
 
