@@ -14,7 +14,7 @@ Check his channel: https://www.youtube.com/user/VFXtestingWMP
 
 [TOCM]
 
-[TOC]
+:toc:
 
 
 
