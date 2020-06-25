@@ -8,7 +8,6 @@ Check his channel: https://www.youtube.com/user/VFXtestingWMP
 
 # Documentation
 
-# Heading 1 #
 
 
 **Table of Contents**
@@ -18,7 +17,7 @@ Check his channel: https://www.youtube.com/user/VFXtestingWMP
 
 
 
-###Modify the gui ###
+### Modify the gui ###
 
                 
 ----
@@ -36,14 +35,14 @@ or
 To change the current page we must click the two arrows on the top right of the stacked widget.
 [![Change Current Page](https://i.imgur.com/w6Tk8WK.png "Change Current Page")](https://i.imgur.com/w6Tk8WK.png "Change Current Page")
 
-####Add a new page ####
+#### Add a new page ####
 
 To add a new page,  right click on stacked widget in the object inspector -> Insert Page -> Choose the order you prefer
 
 [![Add New Page](https://i.imgur.com/SQue5Ue.png "Add New Page")](https://i.imgur.com/SQue5Ue.png "Add New Page")
 
 
-####Add a new menu button ####
+#### Add a new menu button ####
 
 
 [![Add New Button](https://i.imgur.com/zIdhiID.png "Add New Button")](https://i.imgur.com/zIdhiID.png "Add New Button")
@@ -88,7 +87,7 @@ Parameters:
 Example:
 `UIFunctions.addNewMenu(self, "My Page", "btn_my_page", "url(:/16x16/icons/16x16/cil-home.png)", True)`
 
-####Select the page to display when the button is pressed ####
+#### Select the page to display when the button is pressed ####
 
 Search the `## MENUS ==> DYNAMIC MENUS FUNCTIONS` comment
 
@@ -105,15 +104,15 @@ Add the code:
 		new page to the stacked widget
 		
 #Save your .ui file and convert it to a .py file #
-###Save and convert ###
+### Save and convert ###
 
 File -> Save As... when you saved go to your folder and open the Terminal/Command Prompt inside it then write `pyuic5 your_gui_file.ui -o your_gui_file_py`.
 
-###Import your new ui in main.py ###
+### Import your new ui in main.py ###
 
 Search the comment `# GUI FILE` and change `from ui_main_modified import Ui_MainWindow` to `from your_gui_file import Ui_MainWindow`
 
-####Fixing the errors on your new gui file ####
+#### Fixing the errors on your new gui file ####
 
 To do that just replace avery import from `PyQt5` to `PySide2` and add 
 `from PySide2 import QtGui, QtCore, QtWidgets`
