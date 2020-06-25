@@ -123,7 +123,7 @@ File -> Save As... when you saved go to your folder and open the Terminal/Comman
 
 ### Import your new ui in main.py ###
 
-Search the comment `# GUI FILE` and change `from ui_main_modified import Ui_MainWindow` to `from your_gui_file import Ui_MainWindow`
+Search the comment `# GUI FILE` and change `from ui_main import Ui_MainWindow` to `from your_gui_file import Ui_MainWindow`
 
 #### Fixing the errors on your new gui file ####
 
